@@ -1,11 +1,14 @@
-/data/
+/data/pointCleanNetOutliersTestSetOriginal
+/data/pointCleanNetOutliersTrainingSetOriginal
+/data/pointCleanNetDataset.tar.gz
 /models/*.pth
 /models/*.txt
+/models/outliersRemovalModel
+/models/training_27_7
 /__pycache__/
 /logs/
 /noise_removal/results/
 /noise_removal/logs/
-/outliers_removal/results/
 /outliers_removal/logs/
 /noise_removal/*.pyc
 /outliers_removal/*.pyc
