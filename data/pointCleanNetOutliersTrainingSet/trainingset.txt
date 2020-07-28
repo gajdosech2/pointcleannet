@@ -1,7 +1,7 @@
-apple_01
-apple_02
-apple_03
-bmw_01
-bmw_02
-bmw_03
-bmw_04
+gpu_001
+gpu_003
+gpu_004
+gpu_005
+gpu_006
+gpu_007
+gpu_008
