@@ -1,9 +1,11 @@
 /data/pointCleanNetOutliersTestSetOriginal
 /data/pointCleanNetOutliersTrainingSetOriginal
 /data/pointCleanNetDataset.tar.gz
+/data/pointCleannetDataset
 /models/*.pth
 /models/*.txt
 /models/outliersRemovalModel
+/models/denoisingModel
 /models/training_27_7
 /__pycache__/
 /logs/
