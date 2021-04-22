@@ -14,3 +14,8 @@
 /outliers_removal/logs/
 /noise_removal/*.pyc
 /outliers_removal/*.pyc
+
+*.outliers
+*.xyz
+*.clean_xyz
+*.npy
